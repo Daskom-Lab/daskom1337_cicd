@@ -1,0 +1,25 @@
+{
+  "name": "daskom1337_cicd",
+  "version": "1.0.0",
+  "description": "test ci/cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daskom-Lab/daskom1337_cicd.git"
+  },
+  "keywords": [
+    "ci/cd"
+  ],
+  "author": "test",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daskom-Lab/daskom1337_cicd/issues"
+  },
+  "homepage": "https://github.com/Daskom-Lab/daskom1337_cicd#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
